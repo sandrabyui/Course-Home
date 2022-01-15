@@ -1,7 +1,6 @@
 # tic tac toe board 
 #User_input: somthing  1-9 
 # if the player enter anything else :tell the player to try again
-
 #check if the user_input is already taken.
 #check if user won: by checking rows, columns and diagonals.
 # toggle between users upon succeful moves.
